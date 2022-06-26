@@ -7,6 +7,11 @@
 
 ## Curriculum
 
+- [cs231n 사이트](http://cs231n.stanford.edu/)
+- [cs231n Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+
+- 일정
+
 | 주차 | 날짜 | 내용 | 발표자 | 발표 자료|
 |---|---|---|---|---|
 |1|22/07/02|cs231n 1주차|

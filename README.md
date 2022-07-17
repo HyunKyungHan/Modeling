@@ -14,7 +14,7 @@
 
 | 주차 | 날짜 | 내용 | 발표자 | 발표 자료|
 |---|---|---|---|---|
-|1|22/07/02|cs231n 1,2주차|김현서,한현경|[ :closed_book: ](https://github.com/Dream-of-Neomo/Modeling/blob/main/Lecture2.pdf) [;green_book:](https://github.com/Dream-of-Neomo/Modeling/blob/main/Lecture1.pdf) |
+|1|22/07/02|cs231n 1,2주차|김현서,한현경|[ :closed_book: ](https://github.com/Dream-of-Neomo/Modeling/blob/main/Lecture2.pdf) [:green_book:](https://github.com/Dream-of-Neomo/Modeling/blob/main/Lecture1.pdf) |
 |2|22/07/09|cs231n 3,4주차|정보경,송여진|[:blue_book:](https://github.com/Dream-of-Neomo/Modeling/blob/main/Lecture3.pdf) [:orange_book:](https://github.com/Dream-of-Neomo/Modeling/blob/main/Lecture4.pdf) |
 |2|22/07/16|cs231n 5,6주차|김세빈,최하경|
 |4|22/07/23|cs231n 7,8주차|김현서,한현경|

@@ -11,7 +11,9 @@
 - [cs231n Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
 - [Paper RoadMap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
-- 일정
+
+
+## 일정
 
 | 주차 | 날짜 | 내용 | 발표자 | 발표 자료|
 |---|---|---|---|---|

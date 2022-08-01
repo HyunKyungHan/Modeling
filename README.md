@@ -1,4 +1,4 @@
-# EWHA DnA Lab 뇌모의 꿈 : '뇌질환 모델링'팀
+# EWHA DnA Lab 뇌모의 꿈 : `뇌질환 모델링`팀
 
 ## 목표
 - 데이터분석을 이용한 뇌졸중 진단 예측 모델링 (수치형 데이터)
@@ -9,6 +9,7 @@
 
 - [cs231n 사이트](http://cs231n.stanford.edu/)
 - [cs231n Spring 2017](https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk)
+- [Paper RoadMap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 - 일정
 
